@@ -9,3 +9,9 @@ This is a starter template for [Chart.js](http://www.chartjs.org/)
 ## Getting Started
 
 - Clone this repo and open `index.html` in your browser
+
+## Resources
+
+- [Chart.js](http://www.chartjs.org/)
+- [Free APIs to test Chart.js with](https://github.com/public-apis/public-apis#sports--fitness)
+- [Free NBA API (no api key required)](https://app.balldontlie.io/)
